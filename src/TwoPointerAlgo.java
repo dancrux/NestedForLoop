@@ -1,10 +1,10 @@
 public class TwoPointerAlgo {
     public static void main(String[] args) {
 
-        //        int arr [] = {3, 5, 9, 2, 8, 10, 11};
-//        int value = 17;
-//        int size = arr.length;
-//        System.out.println(pairSum(arr, size, value));
+        int arr [] = {3, 5, 9, 2, 8, 10, 11};
+        int value = 17;
+        int size = arr.length;
+        System.out.println(pairSum(arr, size, value));
     }
 
 
